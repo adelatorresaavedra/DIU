@@ -195,6 +195,12 @@ Para ver el prototipo desarrollado: https://cloud.protopie.io/p/416173d46e
 Ya no es necesario incluir un vídeo de 90 segundos, según lo indicado en clase el 19 de Mayo.
 Esto era una medida en tiempos de la pandemia.
 
+Conclusíon y problemas que han surgido en la práctica:
+
+Los problemas que nos han surgido en la realización de está práctica ha sido principalmente la elección de la herramienta de trabajo. Dado que AdobeXD
+ya no nos ofrece licencia hemos estado barajando en mi grupo si utilizar la segunda opción recomendada protopie, o intentar hacer la interfaz mediante puro
+CSS y bootstrap. Finalmente nos decantamos por Protopie, debido a que nos permitía avanzar de forma más rápida, debido a dicha elección no hemos sido capaces
+de importar y utilizar la fuente roboto como teníamos pensado, o los iconos prorcionados por bootstrap.
 
 ## Paso 4. Evaluación 
 
