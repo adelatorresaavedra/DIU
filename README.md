@@ -165,36 +165,35 @@ más demandados o los que estén en oferta)
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+![image](https://user-images.githubusercontent.com/100312103/169705295-944c72b8-0af1-4780-adaf-cf6ec14dcc11.png)
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
+El logotipo ha sido diseñado a raíz del logotipo de 4U Hostels, con el uso de dos herramientas online de edición de imagenes.
+Dichas herramientas son: [Photopea](https://www.photopea.com/) y [iloveimg](https://www.iloveimg.com/es)
+La dimensión del logotipo es de 500x500.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+![landingPage](https://user-images.githubusercontent.com/100312103/169705252-4f9ab30c-9c47-4210-9533-e3ebb538be72.png)
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
-
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Estos son los guidelines seguidos en el desarollo del prototipo. A pesar de que inicialmente pensamos en Roboto como fuente de texto,
+a la hora de llevar a cabo el prototipo en la aplicación de protopie no hemos sido capaces de utilizar la fuente Robot y por eso la hemos cambiado.
+![image](https://user-images.githubusercontent.com/100312103/169705573-eb5f9f86-d4d2-4ca3-9c4f-55118207bac9.png)
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Para ver el prototipo desarrollado: https://cloud.protopie.io/p/416173d46e
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Ya no es necesario incluir un vídeo de 90 segundos, según lo indicado en clase el 19 de Mayo.
+Esto era una medida en tiempos de la pandemia.
 
 
 ## Paso 4. Evaluación 
