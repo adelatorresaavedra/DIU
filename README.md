@@ -2,28 +2,34 @@
 Prácticas Diseño Interfaces de Usuario 2021-22 (Tema: Hostels) 
 
 Grupo: DIU3_12DobleAl.  Curso: 2021/22 
-Updated: 11/2/2022
+Updated: 22/5/2022
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Proyecto:
 
-Descripción: 
+4U Rutas 
 
->>> Describa la idea de su producto en la práctica 2 
+Descripción:
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Nuestra tarea era desarrollar un microsite para la página web: [4U Hostels](https://www.hostel4ugranada.com/?gclid=Cj0KCQjwvqeUBhCBARIsAOdt45YgBYGtwYyYtkyNwvDFLRLpaJDnEsd37W1Hgzvq8UB86Z3X1p_fNk8aAvdKEALw_wcB)
+
+En nuestra libre elección de la temática a desarrollar, hemos decidido desarrollar nuestro microsite con la idea 
+de ofrecer una plataforma que permita realizar rutas temáticas por Granada, organizadas por la empresa hostel 4U.
+
+Dichas rutas podrían ser culturales, gastronómicas e incluso mixtas. Principalmente nos centramos en la posibilidad
+realizar rutas culturales, es decir, rutas que nos muestran los monumentos y sitios más relevantes de Granada.
+
+Logotipo:
+
+El logotipo es ensencia el logotipo de la empresa 4U Hostel, pero cambiando el hostel por rutas.
+De esta forma el usuario entenderá que ambos servicios ofrecidos pertenencen a la mimsa empresa.
+
+![logo_p3_DIU](https://user-images.githubusercontent.com/100312103/169692957-0ad7080d-7fa3-416c-a45c-8087ebf3d69d.png)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette: Alberto López Povedano :octocat: @alberto-lopov
+ * :bust_in_silhouette: Alvaro de la Torre Saavedra :octocat: @adelatorresaavedra
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
