@@ -38,26 +38,58 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Esta es la tabla resultante de nuestro análisis de competidores:
+
+![image](https://user-images.githubusercontent.com/100312103/169701910-9f023299-b96b-455b-8e87-831c49bfe632.png)
+
+Después de realizar el análisis de mercado, hemos podido comprobar que la página
+Hostel4U destaca visualmente respecto a Oasis Hotel que es un hostel humilde, respecto al
+hostel Kubal hay muchos aspectos que no cumple y que debería mejorar. Como hemos
+visto Hostel Kubal es un sitio líder en el ámbito de Hostels y por ello destaca en todos los
+campos que hemos visto. Por otra lado, un campo importante que le faltaría a Hostels4u es
+mejorar la visibilidad de algunos apartados.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+La primera persona utilizada es Ricardo Morón. Un joven periodista que por motivos laborales ha de viajar a Granada,
+a realizar un reportaje cultural. Este perfil nos resulta interesante, porque es una persona joven que más o menos no tiene
+tanta dificultad con las técnologías y que va bucando objetivos especificos en Granada, es decir, no realiza el viaje por placer.
+
+![image](https://user-images.githubusercontent.com/100312103/169702145-1b0516a2-07f1-4b03-8fce-9bc27ce8bd71.png)
+
+La segunda persona es Irene Marin. Una mujer de 48 años, madre de familia, que decide viajar en Granada para revisitar su ciudad natal
+y enseñarsela a sus hijos. Este perfil también es interesante de tratar por representar a una persona más mayor, que normalmente no suelen
+tener tantas facilidades con la informática.
+
+![image](https://user-images.githubusercontent.com/100312103/169702247-fe68d813-45e9-4d4d-b0ee-3446a9a3d283.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+La experencia de Ricardo creemos que puede ser común, dentro de personas que realizan un viaje. Esta experiencia es la de realizar
+dicho viaje por motivos laborales, lo cuales implican informarse de como poder transportar determinado equipamiento.
 
+![image](https://user-images.githubusercontent.com/100312103/169702334-1ca806ab-bac6-454d-9946-ae33160703a1.png)
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+En cuanto a Irene si pensamos que la situación descrita para ella puede ser menos común. Normalmente en su situación los familiares podrían
+disponer de algun espacio para ofrecerle a Irene donde quedarse mientras viene a Granada. Echando esto a margen su experencia resulta
+interesante pues nos hace ver situaciones en los que una familia explora distintas opciones de hospedaje en nuestra página, viendo las diferentes
+habitaciones disponibles.
+
+![image](https://user-images.githubusercontent.com/100312103/169702364-dca6d620-de96-4000-9d15-9fc9cd52a8bd.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+- Enlace al documento: https://github.com/adelatorresaavedra/DIU/blob/master/P1/Usability-review.pdf
+- Valoración final: 72 sobre 100 
+- Comentario sobre la valoración: El sitio web elegido cumple con los requisitos mínimos para ser una página adecuada, tiene
+un buen posicionamiento seo por lo que es fácil de encontrar, también tiene redes sociales
+donde poder ver más detalladamente el lugar en la propia página contiene información
+adecuada del lugar con imágenes e información escrita, aunque le faltaría especificarse
+aún más en ciertos campos, contiene todas las características deseables en cuanto a
+transacciones se refiere, pero falla en la navegabilidad la intuitividad y la escasa información
+que proporciona en algunos campos
 
 
 ## Paso 2. UX Design  
@@ -65,49 +97,67 @@ Miembros
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
+Malla Receptora de información:
 
+![image](https://user-images.githubusercontent.com/100312103/169704180-d6b4606d-be73-4efa-9b05-8164c40fdfc6.png)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+Descripción de propuesta de valor:
 
+Tras la temporada del Covid que hemos pasado y lo debilitado que ha dejado a nuestro sector turístico, desde 4U Rutas proponemos:
+Una página web dirigida a Escritorio, con varios idiomas disponibles, que permita a los usuario participar en rutas de actividades en granada.
+enfocados estas en el turismo: monumentos, gastronomía, eventos, etc...
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Por ello, que lo primero en lo que se centraría nuestra web sería en ayudar a los usuarios a participar en una ruta para experimentar lugares de interés turístico.
+Queremos que el usuario pueda utilizar nuestra página web sin grandes problemos por eso habilitamos una apartado de FAQ destacado.
+A parte de ello también queremos que el usario sientra confianza en nuestras actividades, para ellas se podrán visualizar rutas ya realizadas que
+contarían con reviews de personas que hayan participado en ellas.
 
-
+Tambíen queremos ofrecer rutas especiales para los clientes que se hospeden en nuestro hostel, por esto mismo, a todo residente del hostel
+se le dará un código que podrá utilizar en los formularios de las rutas que ofrecemos.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![image](https://user-images.githubusercontent.com/100312103/169703805-fb56fde1-69b6-44a4-80d6-433e73a96b7d.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+![image](https://user-images.githubusercontent.com/100312103/169704443-ef606cd7-fb07-4f1b-9f30-5f88323453da.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+Sitemap:
 
->>> Identificar términos para diálogo con usuario  
+![image](https://user-images.githubusercontent.com/100312103/169704524-6cf818eb-0fc6-4faf-b535-853ab115016d.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+Labelling:
+
+![image](https://user-images.githubusercontent.com/100312103/169704862-4127c57d-7b6f-4f8a-bca1-3d696b61b326.png)
+![image](https://user-images.githubusercontent.com/100312103/169704869-3e43ec1b-0164-4859-aac7-5f74b425b9f9.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+Prototipos:
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![image](https://user-images.githubusercontent.com/100312103/169704925-0480316c-d24b-45fe-b0f5-cbe95cee1910.png)
+![image](https://user-images.githubusercontent.com/100312103/169704939-8b6d5f65-b226-411d-97d5-ec13d3a1c1a3.png)
+![image](https://user-images.githubusercontent.com/100312103/169704947-d121209f-9abd-4260-9b68-c49c89cdbcef.png)
+![image](https://user-images.githubusercontent.com/100312103/169704961-39d885f1-a181-4708-b766-efd380281a6f.png)
+![image](https://user-images.githubusercontent.com/100312103/169704972-287c9da4-3ff2-4a09-8ea7-49f47a2f87c8.png)
 
+Conclusión de los diseños realizados:
+
+Como conclusión tenemos que el diseño desde el punto de vista de un usuario, no es el
+más óptimo, ya que hemos encontrado dificultades a la hora de navegar, concretamente
+cuando un usuario quiere encontrar un evento concreto y no el que se le propone en la
+página.
+En la próxima práctica se reformulará la propuesta haciendo más sencilla la navegación
+hacia los eventos, quitando de la página principal la búsqueda de habitaciones y
+cambiandola por búsqueda de eventos, a su vez, se cambiarán los eventos de la página de
+inicio en los que había que hacer scroll, y se añadirán 3 eventos destacados (pueden ser los
+más demandados o los que estén en oferta)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
